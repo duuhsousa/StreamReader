@@ -1,0 +1,10 @@
+c:\Users\FIC\Desktop\BackA\Week_2\StreamReader\bin\Debug\netcoreapp2.0\StreamReader.deps.json
+c:\Users\FIC\Desktop\BackA\Week_2\StreamReader\bin\Debug\netcoreapp2.0\StreamReader.runtimeconfig.json
+c:\Users\FIC\Desktop\BackA\Week_2\StreamReader\bin\Debug\netcoreapp2.0\StreamReader.runtimeconfig.dev.json
+c:\Users\FIC\Desktop\BackA\Week_2\StreamReader\bin\Debug\netcoreapp2.0\StreamReader.dll
+c:\Users\FIC\Desktop\BackA\Week_2\StreamReader\bin\Debug\netcoreapp2.0\StreamReader.pdb
+c:\Users\FIC\Desktop\BackA\Week_2\StreamReader\obj\Debug\netcoreapp2.0\StreamReader.csproj.CoreCompileInputs.cache
+c:\Users\FIC\Desktop\BackA\Week_2\StreamReader\obj\Debug\netcoreapp2.0\StreamReader.AssemblyInfoInputs.cache
+c:\Users\FIC\Desktop\BackA\Week_2\StreamReader\obj\Debug\netcoreapp2.0\StreamReader.AssemblyInfo.cs
+c:\Users\FIC\Desktop\BackA\Week_2\StreamReader\obj\Debug\netcoreapp2.0\StreamReader.dll
+c:\Users\FIC\Desktop\BackA\Week_2\StreamReader\obj\Debug\netcoreapp2.0\StreamReader.pdb
