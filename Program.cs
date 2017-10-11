@@ -13,16 +13,18 @@ namespace StreamReader
             {
                 Console.WriteLine("Tamanho: "+file.Length+"kb");
                 Console.WriteLine("Extensão: "+file.Extension);
-                Console.WriteLine("Tamanho: "+file.FullName);
+                Console.WriteLine("Path: "+file.FullName);
             }
             else
             {
                 Console.WriteLine("Arquivo não existe!");
             }
             StreamWriter sw = new StreamWriter(filename,true);
-            Console.Write("Digite o Conteúdo:");
-            string text = Console.ReadLine();
-            sw.WriteLine(text);
+            Console.Write("Digite o seu Nome:");
+            string nome = Console.ReadLine();
+            Console.Write("Digite o seu Idade:");
+            string idade = Console.ReadLine();
+            sw.WriteLine(nome+";"+idade);
             sw.Close();
         }
     }
